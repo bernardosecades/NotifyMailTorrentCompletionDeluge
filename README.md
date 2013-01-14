@@ -1,4 +1,4 @@
 bernardoNotifyMailTorrentCompletionDeluge
 =========================================
 
-Notified through a mail when you complete a torrent
+Notified through a mail to complete the download of a torrent
